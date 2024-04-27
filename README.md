@@ -1,3 +1,6 @@
+# 现成的下载地址
+https://www.miyuru.lk/geoiplegacy
+
 # geolite2legacy
 
 This tool will convert MaxMind GeoLite2 Database to the old legacy format.
